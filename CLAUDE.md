@@ -6,7 +6,7 @@
 
 ## What Was Being Built (lost session)
 - A **drive screen with a map** was being implemented but lost before commit when the computer froze
-- The **Android Auto build** was completed right before the freeze
+- The **Android Auto build** was completed right before the freeze (was running on the **Android Auto emulator**)
 - Next step: recreate the drive screen with an embedded map
 
 ## Known Config
