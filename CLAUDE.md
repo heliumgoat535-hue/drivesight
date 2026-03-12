@@ -7,8 +7,10 @@
 ## What Was Being Built (lost session)
 - A **drive screen with a map** was being implemented but lost before commit when the computer froze
 - The **Android Auto build** was completed right before the freeze (was running on the **Android Auto emulator**)
-- Claude was supposed to test the Android Auto build on the emulator but the computer froze before that happened
-- Next step: test the Android Auto build on the emulator, then recreate the drive screen with an embedded map
+- Next step: recreate the drive screen with an embedded map
+
+## Important
+- **DO NOT open the Android Auto emulator** — it freezes the computer. Test on a physical device instead, or skip emulator testing.
 
 ## Known Config
 - Google AdSense publisher ID: pub-2177114511441377 (see app-ads.txt)
