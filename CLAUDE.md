@@ -5,7 +5,8 @@
 - User needs to decide: framework (Flutter, React Native, etc.) and map provider (Google Maps, Mapbox, etc.)
 
 ## What Was Being Built (lost session)
-- A **drive screen with a map** was being implemented but lost before commit when the computer turned off
+- A **drive screen with a map** was being implemented but lost before commit when the computer froze
+- The **Android Auto build** was completed right before the freeze
 - Next step: recreate the drive screen with an embedded map
 
 ## Known Config
